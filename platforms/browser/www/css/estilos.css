@@ -1,0 +1,31 @@
+/*div[class^="col-"]{
+	border:solid;
+}
+*/
+
+#calendario img{
+	max-width:100%;
+}
+#eventos img{
+	max-width:100%;
+}
+#horarios iframe{
+	height:600px;
+	width:100%;
+}
+
+.arrow{
+	cursor:pointer;
+	right:0;
+	position:fixed;
+	top:15%;
+	width:60px;
+	z-index:100;
+}
+.arrow img{
+	max-width:100%;
+}
+
+.principal img{
+	max-width:100%;
+}
